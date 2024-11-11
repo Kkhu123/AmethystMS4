@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+time
+openai
+os
+requests
+OpenAI
+BeautifulSoup
+load_workbook
+InvalidFileException
+BadZipFile
